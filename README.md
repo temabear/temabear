@@ -2,10 +2,11 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/embed/WUlplcMpOCEmTGBtBW.gif">
+  <img src="">
 </div>
 
-<button href="" target="_blank">Instagram</button>
+<button href="https://www.instagram.com/temsvs/" target="_blank">Instagram</button>
+<button href="https://t.me/temsvs" target="_blank">Telegram</button>
   
   
   
